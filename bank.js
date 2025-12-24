@@ -1,8 +1,8 @@
 
 
 const accounts = [
-  { name: "John Mbugu", pin: "2345", account_number: 34345, amount: 0 },
-  { name: "Samson Mwangi", pin: "9993", account_number: 12345, amount: 0 },
+  { name: "John Mutua", pin: "2345", account_number: 34345, amount: 0 },
+  { name: "Samson Maingi", pin: "9993", account_number: 12345, amount: 0 },
   { name: "Dennis Mogaka", pin: "2134", account_number: 234567, amount: 0},
 ];
 
